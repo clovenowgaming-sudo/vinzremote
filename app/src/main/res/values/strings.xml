@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VinzRemote</string>
+    <string name="accessibility_service_description">Dipakai VinzRemote buat ngetik, tap, swipe dan buka app dari perintah MCP lokal.</string>
+</resources>
